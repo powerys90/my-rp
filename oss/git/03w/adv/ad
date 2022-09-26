@@ -1,0 +1,26 @@
+[33mcommit d9a6978336eb75ebf22eab291364d55d32147999[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ai7dnn <ai7dnn@gmail.com>
+Date:   Mon Sep 26 15:27:41 2022 +0900
+
+    add comp dict to basic.py
+
+ basic.py | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit efeb3cb8012ed84c93a3fa0fff38e77d8596f022[m
+Author: ai7dnn <ai7dnn@gmail.com>
+Date:   Mon Sep 26 15:19:24 2022 +0900
+
+    Add comp list to basic.py
+
+ basic.py | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 647f951a353d9f4edcc59120484e3f39fb3c3557[m
+Author: ai7dnn <ai7dnn@gmail.com>
+Date:   Mon Sep 26 14:44:09 2022 +0900
+
+    create basic.py
+
+ basic.py | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
